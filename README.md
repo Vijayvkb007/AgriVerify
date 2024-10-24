@@ -2,6 +2,15 @@
 
 AgriVerify is a decentralized application (DApp) built using Hardhat, Ethereum, and React. It allows users to register crops on the blockchain and display their verification status using a QR code.
 
+## NOTE:
+There are lots of things to change, for now this is final results! 
+#### Several issues which are needed to be addressed:
+- No Functionality for verifiers
+- No functionality added to register a farmer
+- More robust testing required
+
+These issue will be fixed soon :)
+
 ## Prerequisites
 
 Before running this project, make sure you have the following installed:
