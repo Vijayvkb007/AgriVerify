@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\vijay\\Desktop\\UniDao2.0\\New folder\\myapp\\contracts\\AgriVerify.sol": {
+      "lastModificationDate": 1729773721529,
+      "contentHash": "078138a14c59a8fed78f924a721e5db9",
+      "sourceName": "contracts/AgriVerify.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.27"
+      ],
+      "artifacts": [
+        "AgriVerify"
+      ]
+    }
+  }
+}
